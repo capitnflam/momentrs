@@ -1,0 +1,6 @@
+[package]
+name = "momentrs"
+version = "0.1.0"
+authors = ["capitN.flam <capitnflam@gmail.com>"]
+
+[dependencies]
